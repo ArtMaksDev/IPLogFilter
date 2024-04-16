@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPLogger": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log \"D:\\ipLogs.txt\"\r\n--file-output \"D:\\result.txt\"\r\n--time-start \"13.09.2020\"\r\n--time-end \"29.09.2020\"\r\n--address-start \"248.206.127.74\"\r\n--address-mask \"16\""
+    }
+  }
+}
